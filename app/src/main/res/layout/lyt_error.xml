@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:layout_height="match_parent">
-
+    <!--Hamid_Adeel_S2027894-->
     <ImageView
         android:id="@+id/imgError"
         android:layout_width="match_parent"

@@ -4,7 +4,7 @@
     android:background="@color/purple_700"
     android:orientation="horizontal"
     xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <!--Hamid_Adeel_S2027894-->
     <ImageView
         android:id="@+id/imgBack"
         android:layout_width="50dp"
@@ -28,5 +28,7 @@
         android:fontFamily="@font/barlow"
         android:textColor="@color/white"
         />
+
+
 
 </LinearLayout>

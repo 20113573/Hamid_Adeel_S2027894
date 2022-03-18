@@ -7,6 +7,8 @@
 
     tools:context=".Activities.DetailsActivity">
 
+    <!--Hamid_Adeel_S2027894-->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

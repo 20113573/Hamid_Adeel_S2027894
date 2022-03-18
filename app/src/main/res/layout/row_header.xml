@@ -5,7 +5,7 @@
     android:layout_height="wrap_content"
     android:background="@color/purple_500"
     android:orientation="horizontal">
-
+    <!--Hamid_Adeel_S2027894-->
     <TextView
         android:id="@+id/txtDate"
         android:layout_width="0dp"

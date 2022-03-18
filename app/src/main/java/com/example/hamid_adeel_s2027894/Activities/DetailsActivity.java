@@ -24,8 +24,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 public class DetailsActivity extends FragmentActivity implements View.OnClickListener {
 
-
-
+    // Hamid_Adeel_S2027894
 
     //Declaring Views
     TextView txtTitle,txtToolBarTitle,txtLocation,txtDate,txtStartTime,txtEndTime,txtType,txtdescription;
