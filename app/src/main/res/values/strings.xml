@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hamid_Adeel_S2027894</string>
+    <string name="search_for_a_specific_set_of_roadworks_or_a_current_incident_on_a_specific_road">search for a specific set of roadworks or a current incident on a specific road</string>
+    <string name="journey_planner_to_view_any_roadworks_for_the_date_of_the_planned_journey">Journey planner to view any roadworks for the date of the planned journey</string>
+    <string name="journey_planner">Journey Planner</string>
+    <string name="traffic_scotland">Traffic Scotland</string>
+    <string name="current_incidents">Current Incidents</string>
+    <string name="current_incidents_on_the_road_network_e_g_accidents">Current incidents on the road network e.g. accidents</string>
+    <string name="search_by_date">Search By Date</string>
+    <string name="get_incidents_roadworks_planned_roadworks_for_particular_date">Get Incidents/Roadworks/Planned Roadworks for particular date</string>
+    <string name="search_by_road">Search By Road</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+    <string-array name="roads">
+        <item>Roadworks</item>
+        <item>Current Incidents</item>
+    </string-array>
+</resources>
